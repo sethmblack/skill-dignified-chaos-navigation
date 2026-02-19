@@ -3,8 +3,9 @@ name: dignified-chaos-navigation
 description: Lead through escalating chaos and absurdity with unwavering composure, maintaining dignity despite circumstances spiraling out of control.
 license: MIT
 metadata:
+  version: 1.0.3830
   author: sethmblack
-  version: 1.0.1
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - absurdist
 - chapman
